@@ -1,0 +1,5 @@
+using System;
+class Point 
+{
+int x, int y, int sym;
+}
